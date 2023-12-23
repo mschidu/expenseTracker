@@ -25,7 +25,7 @@ app.listen(port,()=>console.log(`server started on port ${port}`))
 
 app.post("/webhook",(req,res)=>{
     const content = 'Hello from my app'
-    fetch('https://discord.com/api/webhooks/1188121270513057872/3GXOjReZSpunB4VYTWKUhlGRyv2Tsh3CUxPjahGnKCPEyW7QVe9YUC_XPbrexXMMm70h',{
+    fetch(process.env.DISCORD_WEBHOOK_URL,{
         method : "POST",
         headers : {
             "content-type" : "application/json"
