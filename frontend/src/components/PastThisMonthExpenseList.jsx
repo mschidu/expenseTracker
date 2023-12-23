@@ -10,7 +10,6 @@ function PastThisMonthExpenseList(props) {
             return expense
         }
       })
-      console.log(getByDate)
 
   return (
     <>
@@ -20,6 +19,7 @@ function PastThisMonthExpenseList(props) {
           {getByDate.map((expense) => {
             return (
               <ExpenseItem
+                id = {expense.id}
                 key={expense.id}
                 name={expense.name}
                 category={expense.category}

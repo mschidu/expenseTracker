@@ -1,0 +1,868 @@
+{
+    "2023": {
+      "January": [
+        {
+          "id": "0dg2c",
+          "name": "Ball",
+          "category": "Grocery",
+          "amount": "469.00",
+          "createdAt": "2023-01-20T10:52:52.480Z"
+        },
+        {
+          "id": "1d8ngh",
+          "name": "Tuna",
+          "category": "Automotive",
+          "amount": "105.00",
+          "createdAt": "2023-01-15T19:26:50.505Z"
+        },
+        {
+          "id": "7xawhc",
+          "name": "Sausages",
+          "category": "Industrial",
+          "amount": "93.00",
+          "createdAt": "2023-01-12T16:52:24.203Z"
+        },
+        {
+          "id": "6216re",
+          "name": "Salad",
+          "category": "Toys",
+          "amount": "873.00",
+          "createdAt": "2023-01-29T13:26:29.701Z"
+        },
+        {
+          "id": "e0ed5",
+          "name": "Shoes",
+          "category": "Outdoors",
+          "amount": "701.00",
+          "createdAt": "2023-01-08T19:43:00.251Z"
+        },
+        {
+          "id": "dz173o",
+          "name": "Hat",
+          "category": "Health",
+          "amount": "399.00",
+          "createdAt": "2023-01-07T14:13:59.899Z"
+        },
+        {
+          "id": "d9b2mi",
+          "name": "Ball",
+          "category": "Garden",
+          "amount": "902.00",
+          "createdAt": "2023-01-28T10:15:14.810Z"
+        },
+        {
+          "id": "3h5aum",
+          "name": "Mouse",
+          "category": "Outdoors",
+          "amount": "71.00",
+          "createdAt": "2023-01-13T14:03:46.626Z"
+        },
+        {
+          "id": "b76dqj",
+          "name": "Mouse",
+          "category": "Sports",
+          "amount": "834.00",
+          "createdAt": "2023-01-01T06:11:18.558Z"
+        },
+        {
+          "id": "3sauot",
+          "name": "Car",
+          "category": "Music",
+          "amount": "228.00",
+          "createdAt": "2023-01-02T04:50:51.568Z"
+        }
+      ],
+      "February": [
+        {
+          "id": "i4u309",
+          "name": "Gloves",
+          "category": "Automotive",
+          "amount": "656.00",
+          "createdAt": "2023-02-01T16:47:40.295Z"
+        },
+        {
+          "id": "y0g8kk",
+          "name": "Towels",
+          "category": "Movies",
+          "amount": "130.00",
+          "createdAt": "2023-02-02T01:59:11.038Z"
+        },
+        {
+          "id": "ycn55o",
+          "name": "Tuna",
+          "category": "Baby",
+          "amount": "924.00",
+          "createdAt": "2023-02-12T04:07:59.624Z"
+        },
+        {
+          "id": "5xhktp",
+          "name": "Salad",
+          "category": "Garden",
+          "amount": "459.00",
+          "createdAt": "2023-02-26T04:27:59.510Z"
+        },
+        {
+          "id": "pyfar9",
+          "name": "Keyboard",
+          "category": "Kids",
+          "amount": "209.00",
+          "createdAt": "2023-02-19T13:08:48.735Z"
+        },
+        {
+          "id": "paqyzq",
+          "name": "Shirt",
+          "category": "Industrial",
+          "amount": "588.00",
+          "createdAt": "2023-02-05T06:05:42.286Z"
+        },
+        {
+          "id": "qzjlob",
+          "name": "Tuna",
+          "category": "Games",
+          "amount": "201.00",
+          "createdAt": "2023-02-10T17:43:41.561Z"
+        },
+        {
+          "id": "lnajdh",
+          "name": "Chair",
+          "category": "Home",
+          "amount": "56.00",
+          "createdAt": "2023-02-19T11:33:56.634Z"
+        },
+        {
+          "id": "xvlyci",
+          "name": "Salad",
+          "category": "Computers",
+          "amount": "304.00",
+          "createdAt": "2023-02-27T22:29:07.704Z"
+        },
+        {
+          "id": "v391mg",
+          "name": "Shoes",
+          "category": "Books",
+          "amount": "88.00",
+          "createdAt": "2023-02-16T10:59:12.688Z"
+        }
+      ],
+      "March": [
+        {
+          "id": "qj92ze",
+          "name": "Pizza",
+          "category": "Grocery",
+          "amount": "568.00",
+          "createdAt": "2023-03-04T06:26:48.517Z"
+        },
+        {
+          "id": "3glv7k",
+          "name": "Fish",
+          "category": "Home",
+          "amount": "469.00",
+          "createdAt": "2023-03-13T16:50:19.821Z"
+        },
+        {
+          "id": "72yk2s",
+          "name": "Pants",
+          "category": "Movies",
+          "amount": "610.00",
+          "createdAt": "2023-03-05T09:25:07.700Z"
+        },
+        {
+          "id": "5k0tfu",
+          "name": "Tuna",
+          "category": "Sports",
+          "amount": "662.00",
+          "createdAt": "2023-03-06T06:32:55.954Z"
+        },
+        {
+          "id": "l1pooh",
+          "name": "Bike",
+          "category": "Music",
+          "amount": "590.00",
+          "createdAt": "2023-03-28T09:11:56.981Z"
+        },
+        {
+          "id": "4wapmc",
+          "name": "Bacon",
+          "category": "Tools",
+          "amount": "682.00",
+          "createdAt": "2023-03-04T12:49:15.962Z"
+        },
+        {
+          "id": "fkwj29",
+          "name": "Pizza",
+          "category": "Health",
+          "amount": "555.00",
+          "createdAt": "2023-03-20T05:07:22.123Z"
+        },
+        {
+          "id": "k9ujbh",
+          "name": "Mouse",
+          "category": "Home",
+          "amount": "592.00",
+          "createdAt": "2023-03-18T06:49:52.589Z"
+        },
+        {
+          "id": "9va8",
+          "name": "Gloves",
+          "category": "Books",
+          "amount": "55.00",
+          "createdAt": "2023-03-16T23:43:56.501Z"
+        },
+        {
+          "id": "64lxcu",
+          "name": "Bike",
+          "category": "Sports",
+          "amount": "307.00",
+          "createdAt": "2023-03-29T06:38:50.064Z"
+        }
+      ],
+      "April": [
+        {
+          "id": "3fbvn",
+          "name": "Table",
+          "category": "Health",
+          "amount": "335.00",
+          "createdAt": "2023-04-02T20:26:27.564Z"
+        },
+        {
+          "id": "wrtdhn",
+          "name": "Ball",
+          "category": "Games",
+          "amount": "253.00",
+          "createdAt": "2023-04-05T04:52:46.031Z"
+        },
+        {
+          "id": "c5kpel",
+          "name": "Pizza",
+          "category": "Health",
+          "amount": "249.00",
+          "createdAt": "2023-04-13T10:52:22.998Z"
+        },
+        {
+          "id": "tithc5",
+          "name": "Chicken",
+          "category": "Shoes",
+          "amount": "990.00",
+          "createdAt": "2023-04-12T10:03:01.961Z"
+        },
+        {
+          "id": "7w37h",
+          "name": "Hat",
+          "category": "Sports",
+          "amount": "772.00",
+          "createdAt": "2023-04-03T17:42:46.404Z"
+        },
+        {
+          "id": "0f2bed",
+          "name": "Salad",
+          "category": "Shoes",
+          "amount": "529.00",
+          "createdAt": "2023-04-10T08:48:53.675Z"
+        },
+        {
+          "id": "pz8qo",
+          "name": "Ball",
+          "category": "Beauty",
+          "amount": "76.00",
+          "createdAt": "2023-04-23T21:35:17.612Z"
+        },
+        {
+          "id": "l8ndk2",
+          "name": "Sausages",
+          "category": "Jewelery",
+          "amount": "709.00",
+          "createdAt": "2023-04-14T20:05:42.941Z"
+        },
+        {
+          "id": "2g8ilj",
+          "name": "Chicken",
+          "category": "Shoes",
+          "amount": "242.00",
+          "createdAt": "2023-04-20T06:58:32.425Z"
+        },
+        {
+          "id": "jx5ci",
+          "name": "Fish",
+          "category": "Jewelery",
+          "amount": "18.00",
+          "createdAt": "2023-04-07T21:05:41.546Z"
+        }
+      ],
+      "May": [
+        {
+          "id": "vh782p",
+          "name": "Bike",
+          "category": "Automotive",
+          "amount": "952.00",
+          "createdAt": "2023-05-10T00:49:26.042Z"
+        },
+        {
+          "id": "5a8bi5",
+          "name": "Mouse",
+          "category": "Tools",
+          "amount": "723.00",
+          "createdAt": "2023-05-29T22:08:32.027Z"
+        },
+        {
+          "id": "89nquo",
+          "name": "Gloves",
+          "category": "Games",
+          "amount": "198.00",
+          "createdAt": "2023-05-05T22:26:27.562Z"
+        },
+        {
+          "id": "k99y6p",
+          "name": "Fish",
+          "category": "Automotive",
+          "amount": "923.00",
+          "createdAt": "2023-05-20T06:42:56.530Z"
+        },
+        {
+          "id": "592he1",
+          "name": "Chair",
+          "category": "Automotive",
+          "amount": "951.00",
+          "createdAt": "2023-05-17T20:55:14.408Z"
+        },
+        {
+          "id": "mhop3p",
+          "name": "Pants",
+          "category": "Baby",
+          "amount": "384.00",
+          "createdAt": "2023-05-12T13:18:22.286Z"
+        },
+        {
+          "id": "ynzxo",
+          "name": "Chair",
+          "category": "Computers",
+          "amount": "356.00",
+          "createdAt": "2023-05-26T04:51:17.305Z"
+        },
+        {
+          "id": "0npln5",
+          "name": "Fish",
+          "category": "Garden",
+          "amount": "741.00",
+          "createdAt": "2023-05-06T00:02:47.297Z"
+        },
+        {
+          "id": "1v1d3s",
+          "name": "Ball",
+          "category": "Garden",
+          "amount": "299.00",
+          "createdAt": "2023-05-03T18:24:58.634Z"
+        },
+        {
+          "id": "zvo8j",
+          "name": "Ball",
+          "category": "Automotive",
+          "amount": "819.00",
+          "createdAt": "2023-05-13T14:31:37.849Z"
+        }
+      ],
+      "June": [
+        {
+          "id": "ivtmcu",
+          "name": "Soap",
+          "category": "Sports",
+          "amount": "183.00",
+          "createdAt": "2023-06-07T17:28:05.321Z"
+        },
+        {
+          "id": "7v6fco",
+          "name": "Chicken",
+          "category": "Outdoors",
+          "amount": "437.00",
+          "createdAt": "2023-06-01T18:50:26.332Z"
+        },
+        {
+          "id": "3eas3q",
+          "name": "Shoes",
+          "category": "Jewelery",
+          "amount": "217.00",
+          "createdAt": "2023-06-28T03:58:02.878Z"
+        },
+        {
+          "id": "or6v8k",
+          "name": "Pizza",
+          "category": "Kids",
+          "amount": "590.00",
+          "createdAt": "2023-06-10T03:23:33.750Z"
+        },
+        {
+          "id": "soymhk",
+          "name": "Chair",
+          "category": "Books",
+          "amount": "415.00",
+          "createdAt": "2023-06-06T03:10:58.191Z"
+        },
+        {
+          "id": "qn50d8",
+          "name": "Shirt",
+          "category": "Music",
+          "amount": "497.00",
+          "createdAt": "2023-06-17T14:40:06.249Z"
+        },
+        {
+          "id": "ggxkxn",
+          "name": "Salad",
+          "category": "Beauty",
+          "amount": "669.00",
+          "createdAt": "2023-06-18T00:14:01.073Z"
+        },
+        {
+          "id": "lel83o",
+          "name": "Keyboard",
+          "category": "Computers",
+          "amount": "945.00",
+          "createdAt": "2023-06-29T07:57:16.772Z"
+        },
+        {
+          "id": "ceidw",
+          "name": "Hat",
+          "category": "Movies",
+          "amount": "480.00",
+          "createdAt": "2023-06-09T07:39:34.227Z"
+        },
+        {
+          "id": "cuz8b2",
+          "name": "Towels",
+          "category": "Computers",
+          "amount": "553.00",
+          "createdAt": "2023-06-04T02:16:47.474Z"
+        }
+      ],
+      "July": [
+        {
+          "id": "0brwzm",
+          "name": "Sausages",
+          "category": "Jewelery",
+          "amount": "254.00",
+          "createdAt": "2023-07-09T22:32:47.863Z"
+        },
+        {
+          "id": "41jdza",
+          "name": "Shirt",
+          "category": "Garden",
+          "amount": "58.00",
+          "createdAt": "2023-07-29T12:44:11.955Z"
+        },
+        {
+          "id": "1nk6or",
+          "name": "Shirt",
+          "category": "Movies",
+          "amount": "348.00",
+          "createdAt": "2023-07-09T10:22:17.533Z"
+        },
+        {
+          "id": "rni16",
+          "name": "Pants",
+          "category": "Books",
+          "amount": "672.00",
+          "createdAt": "2023-07-01T04:12:34.979Z"
+        },
+        {
+          "id": "8jnzym",
+          "name": "Bike",
+          "category": "Grocery",
+          "amount": "928.00",
+          "createdAt": "2023-07-11T05:35:22.480Z"
+        },
+        {
+          "id": "urwpn",
+          "name": "Chicken",
+          "category": "Kids",
+          "amount": "104.00",
+          "createdAt": "2023-07-23T13:19:41.965Z"
+        },
+        {
+          "id": "huvivh",
+          "name": "Soap",
+          "category": "Grocery",
+          "amount": "565.00",
+          "createdAt": "2023-07-05T04:19:46.582Z"
+        },
+        {
+          "id": "l6q0l",
+          "name": "Mouse",
+          "category": "Games",
+          "amount": "829.00",
+          "createdAt": "2023-07-22T17:39:02.923Z"
+        },
+        {
+          "id": "s21b9",
+          "name": "Towels",
+          "category": "Movies",
+          "amount": "955.00",
+          "createdAt": "2023-07-02T14:38:50.991Z"
+        },
+        {
+          "id": "qk631",
+          "name": "Tuna",
+          "category": "Jewelery",
+          "amount": "184.00",
+          "createdAt": "2023-07-20T23:44:55.987Z"
+        }
+      ],
+      "August": [
+        {
+          "id": "dz2y",
+          "name": "Soap",
+          "category": "Music",
+          "amount": "575.00",
+          "createdAt": "2023-08-05T08:07:45.950Z"
+        },
+        {
+          "id": "rzzz9",
+          "name": "Shirt",
+          "category": "Baby",
+          "amount": "934.00",
+          "createdAt": "2023-08-18T07:26:03.676Z"
+        },
+        {
+          "id": "ts3bj",
+          "name": "Salad",
+          "category": "Home",
+          "amount": "848.00",
+          "createdAt": "2023-08-12T09:20:08.085Z"
+        },
+        {
+          "id": "vqo2i",
+          "name": "Fish",
+          "category": "Beauty",
+          "amount": "228.00",
+          "createdAt": "2023-08-20T11:06:13.353Z"
+        },
+        {
+          "id": "52wbl",
+          "name": "Car",
+          "category": "Jewelery",
+          "amount": "6.00",
+          "createdAt": "2023-08-24T03:41:51.837Z"
+        },
+        {
+          "id": "ciit8r",
+          "name": "Gloves",
+          "category": "Outdoors",
+          "amount": "526.00",
+          "createdAt": "2023-08-17T16:41:25.172Z"
+        },
+        {
+          "id": "kjxftv",
+          "name": "Salad",
+          "category": "Music",
+          "amount": "941.00",
+          "createdAt": "2023-08-01T23:54:53.717Z"
+        },
+        {
+          "id": "zben8o",
+          "name": "Bacon",
+          "category": "Health",
+          "amount": "325.00",
+          "createdAt": "2023-08-08T04:12:04.150Z"
+        },
+        {
+          "id": "7iwevp",
+          "name": "Computer",
+          "category": "Home",
+          "amount": "266.00",
+          "createdAt": "2023-07-31T20:21:10.980Z"
+        },
+        {
+          "id": "v17k02",
+          "name": "Shoes",
+          "category": "Computers",
+          "amount": "102.00",
+          "createdAt": "2023-08-09T07:42:07.338Z"
+        }
+      ],
+      "September": [
+        {
+          "id": "485qg",
+          "name": "Computer",
+          "category": "Jewelery",
+          "amount": "675.00",
+          "createdAt": "2023-09-18T21:46:45.284Z"
+        },
+        {
+          "id": "4c2gd8",
+          "name": "Pizza",
+          "category": "Tools",
+          "amount": "432.00",
+          "createdAt": "2023-09-19T16:25:00.810Z"
+        },
+        {
+          "id": "t3rtu7",
+          "name": "Salad",
+          "category": "Tools",
+          "amount": "474.00",
+          "createdAt": "2023-09-25T05:57:06.010Z"
+        },
+        {
+          "id": "4mv0v",
+          "name": "Ball",
+          "category": "Clothing",
+          "amount": "590.00",
+          "createdAt": "2023-09-25T14:34:18.217Z"
+        },
+        {
+          "id": "fokovm",
+          "name": "Towels",
+          "category": "Shoes",
+          "amount": "812.00",
+          "createdAt": "2023-09-22T12:15:40.272Z"
+        },
+        {
+          "id": "hylqp",
+          "name": "Chair",
+          "category": "Tools",
+          "amount": "832.00",
+          "createdAt": "2023-09-07T13:36:10.560Z"
+        },
+        {
+          "id": "70jy3r",
+          "name": "Ball",
+          "category": "Automotive",
+          "amount": "515.00",
+          "createdAt": "2023-09-15T03:34:03.724Z"
+        },
+        {
+          "id": "nr7a9r",
+          "name": "Ball",
+          "category": "Health",
+          "amount": "55.00",
+          "createdAt": "2023-09-18T07:34:56.397Z"
+        },
+        {
+          "id": "c2riiw",
+          "name": "Soap",
+          "category": "Toys",
+          "amount": "355.00",
+          "createdAt": "2023-09-25T05:49:21.120Z"
+        },
+        {
+          "id": "fguch6",
+          "name": "Computer",
+          "category": "Automotive",
+          "amount": "307.00",
+          "createdAt": "2023-09-16T21:45:23.423Z"
+        }
+      ],
+      "October": [
+        {
+          "id": "j4yvw",
+          "name": "Chair",
+          "category": "Electronics",
+          "amount": "376.00",
+          "createdAt": "2023-10-09T04:40:56.127Z"
+        },
+        {
+          "id": "rjcf6",
+          "name": "Hat",
+          "category": "Grocery",
+          "amount": "138.00",
+          "createdAt": "2023-10-30T05:09:12.250Z"
+        },
+        {
+          "id": "hwagl8",
+          "name": "Tuna",
+          "category": "Garden",
+          "amount": "669.00",
+          "createdAt": "2023-10-28T20:20:54.833Z"
+        },
+        {
+          "id": "75zwae",
+          "name": "Soap",
+          "category": "Garden",
+          "amount": "879.00",
+          "createdAt": "2023-10-08T18:53:37.284Z"
+        },
+        {
+          "id": "3eojba",
+          "name": "Chips",
+          "category": "Computers",
+          "amount": "159.00",
+          "createdAt": "2023-10-14T03:46:02.713Z"
+        },
+        {
+          "id": "9idubs",
+          "name": "Pizza",
+          "category": "Toys",
+          "amount": "22.00",
+          "createdAt": "2023-10-25T16:10:46.668Z"
+        },
+        {
+          "id": "z40la",
+          "name": "Chicken",
+          "category": "Beauty",
+          "amount": "885.00",
+          "createdAt": "2023-10-02T10:01:53.540Z"
+        },
+        {
+          "id": "fsny1o",
+          "name": "Pizza",
+          "category": "Music",
+          "amount": "124.00",
+          "createdAt": "2023-10-12T21:26:48.951Z"
+        },
+        {
+          "id": "u3lnw9",
+          "name": "Tuna",
+          "category": "Books",
+          "amount": "411.00",
+          "createdAt": "2023-10-23T05:47:06.067Z"
+        },
+        {
+          "id": "ljau8",
+          "name": "Cheese",
+          "category": "Automotive",
+          "amount": "714.00",
+          "createdAt": "2023-10-29T00:58:10.271Z"
+        }
+      ],
+      "November": [
+        {
+          "id": "i88hv9",
+          "name": "Keyboard",
+          "category": "Beauty",
+          "amount": "284.00",
+          "createdAt": "2023-11-04T02:18:32.345Z"
+        },
+        {
+          "id": "0c51g",
+          "name": "Mouse",
+          "category": "Beauty",
+          "amount": "206.00",
+          "createdAt": "2023-11-01T20:19:21.924Z"
+        },
+        {
+          "id": "b6qwe",
+          "name": "Chair",
+          "category": "Clothing",
+          "amount": "507.00",
+          "createdAt": "2023-11-21T12:06:41.435Z"
+        },
+        {
+          "id": "2qc92j",
+          "name": "Fish",
+          "category": "Clothing",
+          "amount": "926.00",
+          "createdAt": "2023-11-11T14:30:22.986Z"
+        },
+        {
+          "id": "nf4guq",
+          "name": "Table",
+          "category": "Sports",
+          "amount": "46.00",
+          "createdAt": "2023-11-20T01:43:32.908Z"
+        },
+        {
+          "id": "7c0fl4",
+          "name": "Chicken",
+          "category": "Sports",
+          "amount": "929.00",
+          "createdAt": "2023-11-16T12:41:44.574Z"
+        },
+        {
+          "id": "ct4dib",
+          "name": "Towels",
+          "category": "Books",
+          "amount": "630.00",
+          "createdAt": "2023-11-18T11:09:47.553Z"
+        },
+        {
+          "id": "3h4zv2",
+          "name": "Gloves",
+          "category": "Games",
+          "amount": "971.00",
+          "createdAt": "2023-11-04T12:52:34.456Z"
+        },
+        {
+          "id": "qh5wcq",
+          "name": "Towels",
+          "category": "Baby",
+          "amount": "499.00",
+          "createdAt": "2023-11-19T02:55:12.216Z"
+        },
+        {
+          "id": "21e4q7",
+          "name": "Shoes",
+          "category": "Books",
+          "amount": "723.00",
+          "createdAt": "2023-11-29T02:06:15.477Z"
+        }
+      ],
+      "December": [
+        {
+          "id": "gsenv",
+          "name": "Table",
+          "category": "Home",
+          "amount": "105.00",
+          "createdAt": "2023-12-14T11:54:06.081Z"
+        },
+        {
+          "id": "0r4w9",
+          "name": "Fish",
+          "category": "Health",
+          "amount": "780.00",
+          "createdAt": "2023-12-02T21:27:55.555Z"
+        },
+        {
+          "id": "670g28",
+          "name": "Tuna",
+          "category": "Music",
+          "amount": "540.00",
+          "createdAt": "2023-12-13T19:38:15.620Z"
+        },
+        {
+          "id": "drlxzi",
+          "name": "Towels",
+          "category": "Home",
+          "amount": "949.00",
+          "createdAt": "2023-12-30T16:40:51.855Z"
+        },
+        {
+          "id": "z6zxaw",
+          "name": "Ball",
+          "category": "Computers",
+          "amount": "148.00",
+          "createdAt": "2023-12-03T03:30:36.238Z"
+        },
+        {
+          "id": "y6lg1b",
+          "name": "Fish",
+          "category": "Automotive",
+          "amount": "109.00",
+          "createdAt": "2023-12-27T19:18:07.642Z"
+        },
+        {
+          "id": "qhqsx6",
+          "name": "Soap",
+          "category": "Garden",
+          "amount": "106.00",
+          "createdAt": "2023-12-04T18:43:37.555Z"
+        },
+        {
+          "id": "ub1l2e",
+          "name": "Keyboard",
+          "category": "Jewelery",
+          "amount": "48.00",
+          "createdAt": "2023-12-13T00:41:01.280Z"
+        },
+        {
+          "id": "uqzhji",
+          "name": "Chair",
+          "category": "Movies",
+          "amount": "727.00",
+          "createdAt": "2023-12-15T09:09:35.585Z"
+        },
+        {
+          "id": "5yfwyp",
+          "name": "Sausages",
+          "category": "Sports",
+          "amount": "193.00",
+          "createdAt": "2023-12-09T05:14:52.346Z"
+        }
+      ]
+    }
+  }

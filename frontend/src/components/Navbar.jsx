@@ -1,12 +1,12 @@
 import { Link } from "react-router-dom";
-import Button from "./Button";
+import Button from "./ui/Button";
 
 function Navbar() {
   function handlesignOut() {}
   return (
     <>
       <nav className="bg-[#42224A] p-4">
-        <div className="container mx-auto flex items-center justify-between">
+        <div className="w-[100%] flex items-center justify-between">
           <Link to="/dashboard">
             <p className="text-white font-bold text-lg">ExpenseTracker</p>
           </Link>
